@@ -1,0 +1,30 @@
+{
+  "nome": "Tatooine",
+  "clima": "Árido",
+  "terreno": "Deserto"
+}
+
+
+{
+  "nome": "Endor",
+  "clima": "Temperado",
+  "terreno": "Florestas"
+}
+
+{
+  "nome": "Hoth",
+  "clima": "Gelado",
+  "terreno": "Tundra"
+}
+
+{
+  "nome": "Naboo",
+  "clima": "Temperado",
+  "terreno": "Campos, Lagos e Cidades"
+}
+
+{
+  "nome": "Kashyyyk",
+  "clima": "Tropical",
+  "terreno": "Florestas de Árvores Gigantes"
+}
